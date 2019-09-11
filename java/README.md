@@ -1,4 +1,4 @@
 ### How to run the skeleton tests
 ```bash
-gradle test
+./gradlew test
 ```
